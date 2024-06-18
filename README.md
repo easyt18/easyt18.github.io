@@ -71,7 +71,6 @@ Open a terminal or command prompt and run the following commands to install each
     pip install wheel==0.43.0
 
 
-
 3.Verification:
 
 After installation, verify the installation by running pip list to ensure all packages are installed correctly:
