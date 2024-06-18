@@ -69,7 +69,7 @@ pip install urllib3==2.2.1
 pip install vc==14.2
 pip install vs2015_runtime==14.29.30133
 pip install wheel==0.43.0
-'''
+
 
 3.Verification:
 
@@ -80,7 +80,13 @@ pip list
 You should see a list of installed packages matching the versions specified above.
 
 ## Usage
-### folder = r"The path to store photos taken by the robot."
+### read files
+#### folder = r"The path to store photos taken by the robot."
 eg. folder = r"C:\Users\Aliya\Desktop\calib"
-### filez_address = r"The path to store the robot's pose."
+#### filez_address = r"The path to store the robot's pose."
 eg.file_address = r"C:\Users\Aliya\Desktop\calib\position.xlsx"
+
+### functions:
+#### myRPY2R_robot(x, y, z):to calculate the rotation matrix based on Euler angle
+#### pose_robot(x, y, z, Tx, Ty, Tz)：Used to calculate the transformation matrix based on pose.
+#### get_RT_from_chessboard(img_path,chess_board_x_num,chess_board_y_num,K,chess_board_len):To obtain the camera extrinsics from a chessboard image.
