@@ -44,7 +44,7 @@ wheel                     0.43.0           py39haa95532_0
 Install Python version 3.9.19 using your preferred method.
 2.Package Installation:
 Open a terminal or command prompt and run the following commands to install each required package with its specified version:
-'''
+'''bash
 pip install ca-certificates==2024.3.11
 pip install certifi==2024.6.2
 pip install charset-normalizer==3.3.2
@@ -69,7 +69,7 @@ pip install urllib3==2.2.1
 pip install vc==14.2
 pip install vs2015_runtime==14.29.30133
 pip install wheel==0.43.0
-
+'''
 
 3.Verification:
 
