@@ -9,7 +9,7 @@ We use stationary calibration board and moving robot to take at least two pictur
  set up the development environment to match the required dependencies and versions for the project. Below are the necessary packages and their version:
 
  ### packgage version:
-'''
+
  Name                    Version                   Build  Channel
 ca-certificates           2024.3.11            haa95532_0
 certifi                   2024.6.2                 pypi_0    pypi
@@ -37,7 +37,7 @@ urllib3                   2.2.1                    pypi_0    pypi
 vc                        14.2                 h2eaa2aa_1
 vs2015_runtime            14.29.30133          h43f2093_3
 wheel                     0.43.0           py39haa95532_0
-'''
+
 
 ### Setup Instructions:
 1.Python Installation: 
