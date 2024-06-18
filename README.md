@@ -11,32 +11,32 @@ We use stationary calibration board and moving robot to take at least two pictur
  ### packgage version:
 
  Name                    Version                   Build  Channel
-ca-certificates           2024.3.11            haa95532_0
-certifi                   2024.6.2                 pypi_0    pypi
-charset-normalizer        3.3.2                    pypi_0    pypi
-et-xmlfile                1.1.0                    pypi_0    pypi
-idna                      3.7                      pypi_0    pypi
-numpy                     1.26.4                   pypi_0    pypi
-opencv-python             4.10.0.82                pypi_0    pypi
-openpyxl                  3.1.4                    pypi_0    pypi
-openssl                   3.0.13               h2bbff1b_2
-panda                     0.3.1                    pypi_0    pypi
-pandas                    2.2.2                    pypi_0    pypi
-pillow                    10.3.0                   pypi_0    pypi
-pip                       24.0             py39haa95532_0
-pymssql                   2.3.0                    pypi_0    pypi
-python                    3.9.19               h1aa4202_1
-python-dateutil           2.9.0.post0              pypi_0    pypi
-pytz                      2024.1                   pypi_0    pypi
-requests                  2.32.3                   pypi_0    pypi
-setuptools                69.5.1           py39haa95532_0
-six                       1.16.0                   pypi_0    pypi
-sqlite                    3.45.3               h2bbff1b_0
-tzdata                    2024.1                   pypi_0    pypi
-urllib3                   2.2.1                    pypi_0    pypi
-vc                        14.2                 h2eaa2aa_1
-vs2015_runtime            14.29.30133          h43f2093_3
-wheel                     0.43.0           py39haa95532_0
+ ca-certificates           2024.3.11            haa95532_0
+ certifi                   2024.6.2                 pypi_0    pypi
+ charset-normalizer        3.3.2                    pypi_0    pypi
+ et-xmlfile                1.1.0                    pypi_0    pypi
+ idna                      3.7                      pypi_0    pypi
+ numpy                     1.26.4                   pypi_0    pypi
+ opencv-python             4.10.0.82                pypi_0    pypi
+ openpyxl                  3.1.4                    pypi_0    pypi
+ openssl                   3.0.13               h2bbff1b_2
+ panda                     0.3.1                    pypi_0    pypi
+ pandas                    2.2.2                    pypi_0    pypi
+ pillow                    10.3.0                   pypi_0    pypi
+ pip                       24.0             py39haa95532_0
+ pymssql                   2.3.0                    pypi_0    pypi
+ python                    3.9.19               h1aa4202_1
+ python-dateutil           2.9.0.post0              pypi_0    pypi
+ pytz                      2024.1                   pypi_0    pypi
+ requests                  2.32.3                   pypi_0    pypi
+ setuptools                69.5.1           py39haa95532_0
+ six                       1.16.0                   pypi_0    pypi
+ sqlite                    3.45.3               h2bbff1b_0
+ tzdata                    2024.1                   pypi_0    pypi
+ urllib3                   2.2.1                    pypi_0    pypi
+ vc                        14.2                 h2eaa2aa_1
+ vs2015_runtime            14.29.30133          h43f2093_3
+ wheel                     0.43.0           py39haa95532_0
 
 
 ### Setup Instructions:
